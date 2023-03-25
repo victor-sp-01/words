@@ -1,0 +1,33 @@
+@media only screen and (max-width: 600px)  {
+    /* OPCIONES USER */
+    .div__ZVwZr{ 
+        width: 100%; 
+        bottom: 0;
+        border-radius: 5px 5px 0 0;
+    } 
+
+    .div__bMGjU{
+        display: flex; flex-direction: column;
+        max-height: 50vh;
+    }
+
+    /* FORM WORD */
+    .form__bbYa2{
+        padding: 0;
+    }
+
+    .div__q4tSi{
+        width: 100%;
+        border-radius: 5px 5px 0 0;
+    }
+
+    /*  WORDS */
+
+    .button__ZXvlF{ border-radius: 2.5px; }
+    .footer__o2wjh{ padding: 0; }
+    .form__mrshi{
+        border-radius: 5px 5px 0 0;
+        padding: 8px; gap: 8px;
+    }
+    .div__THdvy{ gap: 4px; } 
+}
