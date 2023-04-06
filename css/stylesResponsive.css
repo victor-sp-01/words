@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px)  {
+    /* LOGIN/REGISTER */
+    .div__kwxAo{
+        position: initial;
+        inset: initial;
+    }
+    /* OPCIONES OPTION */
+    .form__qv69y{ padding: 0; }
+    .div__oVrui{
+        width: 100%; 
+        border-radius: 5px 5px 0 0; 
+    }
+    
+    /* FORM GAME WORD */
+    .form__NcrJB{
+        padding: 3px;
+    }
+
+    .div__THdvy{
+        gap: 3px;
+    }
+}
+ 
